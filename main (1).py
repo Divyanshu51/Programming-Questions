@@ -1,8 +1,9 @@
-#sqaure roota=float(input("Enter no"))
+'''sqaure root'''
+#a=float(input("Enter no"))
 #n=a**0.5
 #print('the sqaure root of %0.3f is %0.3f'%(a,n))
 
-#quadratic question
+'''quadratic question'''
 #import cmath
 #a=int(input("Enter for a:"))
 #b=int(input("Enter for b:"))
@@ -13,7 +14,7 @@
 #print(root1)
 #print(root2)
 
-#swap two variables
+'''swap two variables'''
 #print("Enter two values respectively:\n")
 #a=int(input())
 #b=int(input())
